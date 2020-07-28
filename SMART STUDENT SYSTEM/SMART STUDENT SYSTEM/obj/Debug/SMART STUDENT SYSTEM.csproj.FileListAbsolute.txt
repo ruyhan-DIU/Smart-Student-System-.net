@@ -1,0 +1,142 @@
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\csc.exe
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Collections.Immutable.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\vbc.exe
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe.config
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll.config
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.pdb
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.bootstrap.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.jQuery.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.WebForms.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.Web.Infrastructure.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\WebGrease.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.xml
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.pdb
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.xml
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.csprojResolveAssemblyReference.cache
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.dll
+I:\lab assignment\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.pdb
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\csc.exe
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Collections.Immutable.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\vbc.exe
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe.config
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll.config
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.pdb
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.bootstrap.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.jQuery.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.MSAjax.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.WebForms.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.Web.Infrastructure.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\WebGrease.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.xml
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.pdb
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.xml
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.xml
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.csprojAssemblyReference.cache
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.csproj.CoreCompileInputs.cache
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.csproj.CopyComplete
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.dll
+F:\Versity\Level 3\Semester 7\Dot Net Programming with Lab\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.pdb
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\csc.exe
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Collections.Immutable.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\vbc.exe
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe.config
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll.config
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.pdb
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.bootstrap.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.jQuery.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.WebForms.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.Web.Infrastructure.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\WebGrease.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.xml
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.pdb
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.xml
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.csprojResolveAssemblyReference.cache
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.dll
+I:\Project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.pdb
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\csc.exe
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.CSharp.Core.targets
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\Microsoft.VisualBasic.Core.targets
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Collections.Immutable.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\System.Reflection.Metadata.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\vbc.exe
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\roslyn\VBCSCompiler.exe.config
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll.config
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\SMART STUDENT SYSTEM.pdb
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.bootstrap.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\AspNet.ScriptManager.jQuery.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.MSAjax.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.ScriptManager.WebForms.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.Web.Infrastructure.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\WebGrease.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\System.Web.Optimization.xml
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Antlr3.Runtime.pdb
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Newtonsoft.Json.xml
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\bin\Microsoft.AspNet.FriendlyUrls.xml
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.csprojResolveAssemblyReference.cache
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.dll
+I:\Final project\SMART STUDENT SYSTEM\SMART STUDENT SYSTEM\obj\Debug\SMART STUDENT SYSTEM.pdb
